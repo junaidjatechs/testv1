@@ -59,7 +59,7 @@
   margin-left: 5px;
 }
 
-.active:after {
+.ja-active:after {
   content: "\2212";
 }
 
